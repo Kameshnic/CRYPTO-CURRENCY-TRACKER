@@ -1,20 +1,41 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+Here’s a concise version of the README file, focusing on essential details:
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+```markdown
+# Cryptocurrency Tracker
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+A lightweight cryptocurrency tracker built using **React.js**, **Material UI**, and **Chart.js**, allowing users to view real-time cryptocurrency prices, historical trends, and market updates.
 
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+## Features
+- Real-time cryptocurrency prices and market cap.
+- Historical price data with timeframes (1 day, 7 days, 30 days).
+- Search bar for finding specific cryptocurrencies.
+- Currency selection (USD/INR).
+- Fully responsive design.
 
-## Built with 
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-name.git
+   cd your-repo-name
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the app:
+   ```bash
+   npm start
+   ```
+Access the app at `http://localhost:3000`.
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+## Technologies Used
+- **React.js** for the frontend.
+- **Material UI** for UI components.
+- **Chart.js** for data visualization.
+- **CoinGecko API** for real-time cryptocurrency data.
 
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
+## License
+This project is open-source and licensed under the MIT License.
+```
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
-
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+This version highlights the main points and is easy to understand for anyone interested in the project.
