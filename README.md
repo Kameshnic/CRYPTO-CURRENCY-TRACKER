@@ -4,6 +4,13 @@ Here is the README file rewritten without markdown formatting:
 
 **Cryptocurrency Tracker**  
 
+i have contributed to the backend part of the website for feteching the coni details
+
+and then i have worked on the frontend part 
+
+you can check out the website modules which i have commited !
+
+
 An interactive and responsive cryptocurrency tracker built using React.js, Material UI, and Chart.js. This application provides real-time updates on cryptocurrency prices, historical trends, and market data.  
 
 **Features:**  
